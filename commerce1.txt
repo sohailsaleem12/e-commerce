@@ -1,2 +1,6 @@
 hello
-second commit  
+second commit 
+git commands:
+1) git init
+2) git config
+ 
