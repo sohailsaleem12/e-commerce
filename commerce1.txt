@@ -1,6 +1,11 @@
 hello
+<<<<<<< HEAD
 second commit 
 git commands:
 1) git init
 2) git config
  
+=======
+second commit  
+remote
+>>>>>>> 9b2bec114fb6644f5bc6ea38fecb26dc5a780a55
