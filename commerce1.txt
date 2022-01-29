@@ -2,5 +2,5 @@ hello
 git commands:
 1) git init
 2) git config
- remote
+ remote now it fixed
 
